@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Reis
+ * @author Reis & Marcus
  */
 public class ArvoreBinaria {
 
