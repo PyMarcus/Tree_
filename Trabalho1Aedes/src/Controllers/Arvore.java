@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Reis
+ * @author Reis & Marcus
  */
 public class Arvore {
     private No raiz; // raíz da árvore
